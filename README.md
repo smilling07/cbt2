@@ -59,12 +59,6 @@ Apabila berminat ingin bergabung dalam tim pengembangan, silakan japri Author me
 
 # TCExam - README
 
-------------------------------------------------------
-
-FOR ANY USAGE THAT REQUIRES COMMERCIAL LICENSING TERMS,
-PLEASE CONTACT INFO@TECNICK.COM TO PURCHASE A LICENSE.
-
-------------------------------------------------------
 
 * Name: TCExam
 * Author: Nicola Asuni
@@ -226,3 +220,5 @@ authentication levels to discriminate the access to the various sections
 (user/password, access level, group, IP address). Test time, test activity,
 results, and statistics: every part of the test is managed and stored in the
 server, leaving no sensitive data in the users’ client computers.
+
+
